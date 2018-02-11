@@ -35,6 +35,7 @@ import com.thinkgem.jeesite.common.utils.DateUtils;
  * @author ThinkGem
  * @version 2013-3-23
  */
+
 public abstract class BaseController {
 
 	/**
