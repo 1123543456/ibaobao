@@ -50,7 +50,7 @@ public class IChatRecordController extends BaseController {
 	public String list(IChatRecord iChatRecord, HttpServletRequest request, HttpServletResponse response, Model model) {
 //		Page<IChatRecord> page = iChatRecordService.findPage(new Page<IChatRecord>(request, response), iChatRecord);
 //		model.addAttribute("page", page);
-		return "zj/record/2";
+		return "zj/record/qq/1047583436-2017-07-28";
 	}
 
 	@RequiresPermissions("record:iChatRecord:view")
